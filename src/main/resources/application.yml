@@ -1,0 +1,14 @@
+server:
+  port: 8090
+  tomcat:
+    uri-encoding: UTF-8
+   
+#neo4j配置
+#spring:
+ # data:
+  #  neo4j:
+   #   uri: http://127.0.0.1:7474
+    #  username: neo4j
+     # password: root
+#      compiler: org.neo4j.ogm.compiler.MultiStatementCypherCompiler
+      
